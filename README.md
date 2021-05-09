@@ -3,7 +3,7 @@
 ⚔ I have a great passion to build and maintain machine learning models either from the supportive/engineering side as a data engineer
   (scaling) or from the scientific side as a data scientist.
 
-🐳I truly believe that humanity has'nt reveal the true potential of the big data revolution and i'm on a mission to find a great stuff to do with this data ocean that we are leave in.
+🐳I truly believe that humanity has'nt reveal the true potential of the big data revolution and i'm on a mission to find a great stuff to do with this data ocean that we are live in.
 
 I'm currently work on:
 
